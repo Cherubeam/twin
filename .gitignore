@@ -40,6 +40,9 @@ venv/
 # uv
 uv.lock
 
+# AWS
+.aws/
+
 # Lambda deployment artifacts
 lambda-deployment.zip
 lambda-package/
